@@ -257,5 +257,7 @@
         </xs:attribute>
 
     </xs:complexType>
+    
+    <xs:element name="acode" type="xs:string" />
 
 </xs:schema>
